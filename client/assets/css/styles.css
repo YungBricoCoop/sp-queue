@@ -1,0 +1,8 @@
+img{
+    max-width: 200px;
+    border-radius: 40px;
+}
+img:hover{
+    filter:blur(1.8px);
+    transform: translateY(5px);
+}
